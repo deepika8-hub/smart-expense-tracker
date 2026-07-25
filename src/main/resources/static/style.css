@@ -1,0 +1,4 @@
+body { background: #f4f6f9; }
+.auth-page { background: linear-gradient(135deg, #667eea, #764ba2); }
+.card { border-radius: 12px; border: none; }
+.nav-tabs .nav-link { cursor: pointer; }
