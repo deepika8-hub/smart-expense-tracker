@@ -14,6 +14,36 @@ This application enables users to securely register, log in, manage their daily 
 
 ---
 
+##  Screenshots
+
+###  Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+###  Registration Page
+
+![Registration Page](screenshots/register.png)
+
+---
+
+###  Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+###  Expense List
+
+![Expense List](screenshots/expenses.png)
+
+---
+
+###  Expense Chart
+
+![Expense Chart](screenshots/chart.png)
+
 #  Features
 
 - Secure User Registration
